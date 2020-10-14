@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.logo {
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 37px;
+}
+
+.main {
+    left: 272.76px;
+    top: 48px;
+    position: absolute;
+}
+
+.signIn {
+    top: 32px;
+    right: 5px;
+    /*
+    float: right;
+    position: sticky;
+    left: 650px;*/
+    position: absolute;
+}
+
+.nav {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    /* float: left;
+    margin: 0 auto;*/
+}
+
+.border {
+    background-color: #4F56F1;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 16px 20px;
+}
+
+.more {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 378.71px;
+}
+
+.content {
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+    top: 280.71px;
+}
+
+.title {
+    font-family: 'Ramaraja', serif;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    width: 500px;
+    height: 152px;
+    display: inline-block;
+}
+
+.subtext {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    width: 538.08px;
+    height: 96px;
+    top: 10px;
+    position: relative;
+}
+
+.mainImg {
+    position: absolute;
+    width: 653px;
+    height: 604px;
+    left: 853px;
+    top: 186px;
+}
+
+.ul {
+    list-style-type: none;
+    /*width: auto;
+    display: inline-block;*/
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.li {
+    margin-right: 42px;
+    display: inline-block;
+    /*margin: 12.5%;
+    float: left;
+    */
+}
+
+li a {
+    color: #1B0A42;
+    display: block;
+    /*text-align: center;*/
+}
